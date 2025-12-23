@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-brian",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ESLint plugin that removes 'Brian' from your code.",
   "main": "./dist/index.js",
   "type": "module",
@@ -28,6 +28,7 @@
   ],
   "author": "",
   "license": "MIT",
+  "files": ["dist"],
   "peerDependencies": {
     "@typescript-eslint/parser": "^6.0.0 || ^7.0.0 || ^8.0.0",
     "eslint": "^8.0.0 || ^9.0.0"
